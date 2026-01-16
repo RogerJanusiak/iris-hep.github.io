@@ -23,6 +23,7 @@ team:
  - gordonwatts
  - mweinberg2718
  - MichaelJohnson
+ - rogerjanusiak
 ---
 
 The sheer volume of HL-LHC events will emphasize the need for rapid data reduction and
@@ -100,7 +101,7 @@ The transformers are launched as an auto-scaling job by the flask app. Each
 worker is fed from a transactional RabbitMQ queue.
 
 ## Reference
-Full documentation at [the Servicex ReadTheDocs pages](https://servicex.readthedocs.io/en/latest/).
+Full documentation at [The ServiceX Website](https://tryservicex.org).
 
 <a href="https://indico.cern.ch/event/773049/contributions/3474438/attachments/1935769/3207764/BenGalewskyCHEP2019.pdf"><img width="10%" src="/assets/images/BenGalewskyCHEP2019.png" alt="poster" /></a> [ServiceX talk at CHEP 2019](https://indico.cern.ch/event/773049/contributions/3474438/attachments/1935769/3207764/BenGalewskyCHEP2019.pdf)
 
